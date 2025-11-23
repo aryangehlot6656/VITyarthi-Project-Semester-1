@@ -45,6 +45,8 @@ To properly test the program:
 Test 4: Tie-Breaker Handling: Enter identical distances and identical traffic for all three routes. The program must recommend the route with moderate distance + moderate traffic.
  Test 5: Invalid Inputs. Enter non-numeric values or invalid options to verify error handling.
 
+ATTACHING SCREENSHOTS FROM JUPYTER NOTEBOK:
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-23 222011" src="https://github.com/user-attachments/assets/dc7bbcf8-b67a-4062-b732-0ce4c8a79414" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-23 222024" src="https://github.com/user-attachments/assets/de6b11aa-3f87-4d29-a916-a419fc6f4a8b" />
 
