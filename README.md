@@ -28,10 +28,7 @@ Download from: https://www.python.org/downloads/
 
 2.	 Clone or Download the Repository:   (paste repository link)
 
-3.	 Run the Python Script:
-
-Navigate to the project folder and run:
-(. Py filename)
+3.	 Run the Python Script: Navigate to the project folder and run: Code.py
 
 4.	 Follow On-Screen Instructions:  The program will:
 a)	Ask for vehicle type
