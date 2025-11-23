@@ -26,7 +26,7 @@ Environment: Works in any Python-compatible environment (VS Code, PyCharm, Jupyt
 1.	 Install Python: Make sure Python 3.x is installed on your system. 
 Download from: https://www.python.org/downloads/
 
-2.	 Clone or Download the Repository:   (paste repository link)
+2.	 Clone or Download the Repository:   https://github.com/aryangehlot6656/VITyarthi-Project-Semester-1.git
 
 3.	 Run the Python Script: Navigate to the project folder and run: Code.py
 
